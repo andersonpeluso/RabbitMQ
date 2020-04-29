@@ -1,0 +1,14 @@
+D:\TFS\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.frmRabbitMQ.resources
+D:\TFS\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.Properties.Resources.resources
+D:\TFS\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.csproj.GenerateResource.cache
+D:\TFS\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.csproj.CoreCompileInputs.cache
+D:\TFS\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.exe.config
+D:\TFS\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.exe
+D:\TFS\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.pdb
+D:\TFS\RabbitMQ\RabbitMQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\TFS\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.Client.dll
+D:\TFS\RabbitMQ\RabbitMQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\TFS\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.Client.xml
+D:\TFS\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.csproj.CopyComplete
+D:\TFS\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.exe
+D:\TFS\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.pdb
